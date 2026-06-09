@@ -4,7 +4,7 @@ Kaydırıcı ölçek (slider) soruları anketlerde kullanılabilmektedir. Survey
 
 1)	İlgili madde (soru) için **Soru türü** kısmından **Kalıp sorular** arasından **Birkaç sayısal giriş** seçilir.
 
-<img width="1895" height="865" alt="slider_1" src="https://github.com/user-attachments/assets/1cd06165-4218-4216-9756-1cdc52f48cbe" />
+<img width="1895" height="865" alt="slider_1" src="https://github.com/user-attachments/assets/37fb335a-9f06-4d4d-ad55-2c4ab394b315" />
 
 2) Soru düzenlenirken sağ taraftaki menüde artık **Kaydırıcı** görünür hale gelecektir.
 
