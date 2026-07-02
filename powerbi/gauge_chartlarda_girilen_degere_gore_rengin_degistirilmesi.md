@@ -6,7 +6,7 @@ Gauge chart'larda bilindiği üzere girilen değere göre bir çeşit ilerleme y
 
 <img width="462" height="332" alt="gauge1" src="https://github.com/user-attachments/assets/709656cd-3959-48ac-b7aa-b0ddae8e622c" />
 
-2) Yukarıdaki örnek chart için şu şekilde giriş yapılmıştır.
+2) Yukarıdaki örnek chart için şu şekilde giriş yapılmıştır. Yalnızca 0, 100, 85 değerleri girilmiş ve iki farklı renk seçilmiştir. Biri bar'ın rengini, diğeri de hedefin rengini - çizgi şeklinde - göstermektedir.
 
 <img width="761" height="765" alt="gauge2" src="https://github.com/user-attachments/assets/f4bf11b7-be3e-4973-b8c0-ab1bda3c1cc9" />
 
@@ -15,7 +15,7 @@ Gauge chart'larda bilindiği üzere girilen değere göre bir çeşit ilerleme y
 
 <img width="1271" height="719" alt="gauge3" src="https://github.com/user-attachments/assets/e76a7e25-0fbf-4db0-9b25-070990d78f7d" />
 
-4) **Tüm ayarlar yapıldıktan ve **OK** düğmesine tıklandıktan sonra aşağıdaki görsel elde edilecektir.**
+4) Tüm ayarlar yapıldıktan ve **OK** düğmesine tıklandıktan sonra aşağıdaki görsel elde edilecektir.
 
 <img width="375" height="283" alt="gauge4" src="https://github.com/user-attachments/assets/95990755-b620-4388-a38e-ce60554cccba" />
 
