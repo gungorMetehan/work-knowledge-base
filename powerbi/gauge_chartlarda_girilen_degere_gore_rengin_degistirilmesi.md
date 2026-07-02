@@ -19,4 +19,4 @@ Gauge chart'larda bilindiği üzere girilen değere göre bir çeşit ilerleme y
 
 <img width="375" height="283" alt="gauge4" src="https://github.com/user-attachments/assets/95990755-b620-4388-a38e-ce60554cccba" />
 
-Görüldüğü üzere bar'ın rengi değişmiştir. Çünkü ilgili kişiye ait girilen değer olan 80, 75'ten büyük ve 90'dan küçüktür. Ayrıca hedef değer olarak girilen 85 hala gauge chart üzerinde görüntülenebilmektedir.
+Görüldüğü üzere bar'ın rengi değişti. Çünkü ilgili kişiye ait girilen değer olan 80, 75'ten büyük ve 90'dan küçüktür. Ayrıca hedef değer olarak girilen 85 hala gauge chart üzerinde görüntülenebilmektedir.
