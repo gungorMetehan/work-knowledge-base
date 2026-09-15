@@ -15,4 +15,4 @@ LimeSurvey'de 3 boyutlu sorular şu şekilde sorulabilir:
 
 3) Ayarlar ikinci maddedeki gibi yapıldığında aşağıdaki gibi bir soru elde edilecektir.
 
-<img width="1267" height="711" alt="3boyutlu_3" src="https://github.com/user-attachments/assets/d59feb24-3f9f-420a-9f8d-e094ade09867" /> 
+<img width="1267" height="711" alt="3boyutlu_3" src="https://github.com/user-attachments/assets/d59feb24-3f9f-420a-9f8d-e094ade09867" />
