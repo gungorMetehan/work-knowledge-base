@@ -11,7 +11,7 @@ Gauge chart'larda bilindiği üzere girilen değere göre bir çeşit ilerleme y
 <img width="761" height="765" alt="gauge2" src="https://github.com/user-attachments/assets/f4bf11b7-be3e-4973-b8c0-ab1bda3c1cc9" />
 
 3) Burada **Fill color** seçeneğinde seçilen rengin hemen sağında bir **fx** sembolü yer almaktadır. Bu sembol tıklandığında **Fill color - Colors** başlıklı bir pencere açılacaktır. İşte bu kısımdan, kurallarımızı belirleyebiliriz.
-Öncelikle **Format style** açılır menüsünden **Rules** seçilmelidir. Ardından kurallar **+ New rule** düğmesi tıklanarak yapılabilir. Bu örnekte yalnızca 0, 75, 75, 90, 90 ve 100 değerleri girilip ilgili aralıklar için üç farklı seçim yapılmıştır. Diğer alanlar otomatik olarak gelmektedir.
+Öncelikle **Format style** açılır menüsünden **Rules** seçilmelidir. Ardından kurallar **+ New rule** düğmesi tıklanarak yapılabilir. Bu örnekte yalnızca 0, 75; 75, 90; 90 ve 100 değerleri girilip ilgili aralıklar için üç farklı seçim yapılmıştır. Diğer alanlar otomatik olarak gelmektedir.
 
 <img width="1271" height="719" alt="gauge3" src="https://github.com/user-attachments/assets/e76a7e25-0fbf-4db0-9b25-070990d78f7d" />
 
